@@ -1,6 +1,6 @@
 {
   "name": "@not-an-aardvark/node-release-script",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Script for automatically generating releases",
   "bin": {
     "node-release-script": "index.js"
